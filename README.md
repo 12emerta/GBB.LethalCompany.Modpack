@@ -2,7 +2,7 @@
 This serves as a host for the Lethal Company modpack, this is required to be installed before joining the our hosted Lethal Company servers.
 
 # Installation
-1. Download the most recent zip file found in the releases section.
+1. Download the most recent Modpack.zip file found in the releases section.
     * https://github.com/12emerta/GBB.LethalCompany.Modpack/releases
 2. Extract the zip file and all its contents.
 3. Place the extracted files into the base Lethal Company game directory
