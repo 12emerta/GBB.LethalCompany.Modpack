@@ -5,7 +5,7 @@ This serves as a host for the Lethal Company modpack, this is required to be ins
 1. Download the most recent zip file found in the releases section.
     * https://github.com/12emerta/GBB.LethalCompany.Modpack/releases
 2. Extract the zip file and all its contents.
-3. Place the extracted files into the base Valheim game directory
+3. Place the extracted files into the base Lethal Company game directory
     * i.e. `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`
     * Your base game dir should now have a BepInEx folder located in it (i.e. `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx`)
     * If you already have a BepInEx folder in the game directory it is best to fully delete it and replace it with this directory.
